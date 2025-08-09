@@ -1,5 +1,6 @@
 # CardGame
-纸牌程序（演示视频：https://www.bilibili.com/video/BV1XcthzcEzd）
+纸牌程序
+演示视频：https://www.bilibili.com/video/BV1XcthzcEzd
 1. 开发环境：cocos2dx 3.17
 2.功能
 （1）手牌区替换
