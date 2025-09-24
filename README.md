@@ -4,9 +4,9 @@
 
  1.  开发环境：cocos2dx 3.17
  2. 功能：
-（1）手牌区替换
-（2）桌面牌和手牌区顶部牌匹配
-（3）回退功能
+（1）手牌区替换<br>
+（2）桌面牌和手牌区顶部牌匹配<br>
+（3）回退功能<br>
  3. 项目结构
  ```
 Classes/
@@ -20,5 +20,5 @@ Classes/
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMjExODA3XX0=
+eyJoaXN0b3J5IjpbNzU2NDQ4OTQxXX0=
 -->
