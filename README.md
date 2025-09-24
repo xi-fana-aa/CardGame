@@ -3,7 +3,7 @@
 演示视频：https://www.bilibili.com/video/BV1XcthzcEzd
 
  1.  开发环境：cocos2dx 3.17
- 2. 功能：
+ 2. 功能：<br>
 （1）手牌区替换<br>
 （2）桌面牌和手牌区顶部牌匹配<br>
 （3）回退功能<br>
@@ -20,5 +20,5 @@ Classes/
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NDQ4OTQxXX0=
+eyJoaXN0b3J5IjpbMzA0NTYzMDAzXX0=
 -->
